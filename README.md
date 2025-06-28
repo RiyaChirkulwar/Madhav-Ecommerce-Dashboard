@@ -56,5 +56,6 @@ Customer Segmentation: Spot loyal or high-spending customers to tailor engagemen
 Strategic Planning: Assists in expanding to new regions based on order concentration.
 
 🖼️ Screenshots / Demo
+
 Dashboard Preview!
 https://github.com/RiyaChirkulwar/Madhav-Ecommerce-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png
